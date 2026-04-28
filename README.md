@@ -1,16 +1,18 @@
 # Hi there, I'm Priyanshu Dagar! 👋
 
-I am a Software Engineering student passionate about building impactful applications and solving complex problems.
+I am a **B.Sc. Computer Science (Honors)** student at **Carleton University**, currently in my **3rd year standing** with a **CGPA of 10/12**.
+
+I am passionate about building impactful applications, solving complex problems, and continuously expanding my technical toolkit.
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Scholar-Match**.
-- 🎓 Studying Computer Science / Software Engineering.
+- 🎓 3rd Year B.Sc. Computer Science Honors @ Carleton University.
+- 📈 CGPA: 10/12
 - ⚡ Fun fact: I love exploring new technologies and building tools that make life easier.
 
 ## 🛠 Skills
-- **Languages:** JavaScript, TypeScript, Python, C++, HTML/CSS
-- **Frameworks/Libraries:** Node.js, Express, React
-- **Tools:** Git, GitHub, VS Code
+- **Programming Languages:** Java, Python, C, JavaScript, C++
+- **Web & Tools:** HTML/CSS, Git, GitHub
 
 ---
 
@@ -28,9 +30,4 @@ I am happy to grant "Read" access to my private portfolio for review.
 
 ---
 
-## 📈 My GitHub Stats
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Dagar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Dagar&layout=compact&theme=radical)
-
----
 *Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanshu-dagar-753607253/)*
