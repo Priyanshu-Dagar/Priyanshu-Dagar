@@ -21,7 +21,7 @@ I maintain several private repositories (including academic projects, full-stack
 I am happy to grant "Read" access to my private portfolio for review.
 
 ### How to request access:
-1. **Email Me:** [Click here to send an access request](mailto:your-email@example.com?subject=GitHub%20Access%20Request%20-%20[Your%20Name])
+1. **Email Me:** [Click here to send an access request](mailto:priyandagar@outlook.com?subject=GitHub%20Access%20Request%20-%20[Your%20Name])
 2. **GitHub Issue:** Feel free to open a "Question" issue in this repository with your GitHub username.
 
 *I typically respond and grant access within 24 hours.*
@@ -33,4 +33,4 @@ I am happy to grant "Read" access to my private portfolio for review.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Dagar&layout=compact&theme=radical)
 
 ---
-*Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) (optional)*
+*Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanshu-dagar-753607253/)*
