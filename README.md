@@ -7,7 +7,7 @@ I am passionate about building impactful applications, solving complex problems,
 ## 🚀 About Me
 - 🔭 I’m currently working on **Scholar-Match**.
 - 🎓 3rd Year B.Sc. Computer Science Honors @ Carleton University.
-- 📈 CGPA: 10/12
+- 📈 CGPA: 10.25/12
 - ⚡ Fun fact: I love exploring new technologies and building tools that make life easier.
 
 ## 🛠 Skills
